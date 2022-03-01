@@ -1,6 +1,17 @@
 {
-  "settingsInheritedFrom": "xinYG/whitesource-config@main",
-   "remediateSettings": {
+   "scanSettings": {
+   "configMode": "AUTO",
+   "configExternalURL": "",
+   "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "success",
+    "displayMode": "diff"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  },
+  "remediateSettings": {
     "enableRenovate": "true",
     "workflowRules": {
       "enabled": true,
