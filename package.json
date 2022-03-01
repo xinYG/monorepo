@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/zgriesinger/monorepo/issues"
   },
-  "homepage": "https://github.com/zgriesinger/monorepo#readme"
+  "homepage": "https://github.com/zgriesinger/monorepo#readme",
+  "dependencies": {
+    "ansi-regex": "4.1.0"
+  }
 }
