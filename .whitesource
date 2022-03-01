@@ -11,9 +11,9 @@
   "issueSettings": {
     "minSeverityLevel": "LOW"
   },
-  "remediateSettings": {
-    "enableRenovate": "true",
-    "workflowRules": {
+   "remediateSettings": {
+   "enableRenovate": "true",
+   "workflowRules": {
       "enabled": true,
       "minVulnerabilitySeverity": "LOW"
     }
