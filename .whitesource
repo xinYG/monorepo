@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "xinYG/whitesource-config@main"
+  "settingsInheritedFrom": "xinYG/whitesource-config@main",
+   "remediateSettings": {
+    "enableRenovate": "true",
+    "workflowRules": {
+      "enabled": true,
+      "minVulnerabilitySeverity": "MEDIUM"
+    }
 }
