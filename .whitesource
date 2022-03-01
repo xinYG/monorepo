@@ -4,6 +4,6 @@
     "enableRenovate": "true",
     "workflowRules": {
       "enabled": true,
-      "minVulnerabilitySeverity": "MEDIUM"
+      "minVulnerabilitySeverity": "LOW"
     }
 }
