@@ -1,6 +1,6 @@
 {
   "name": "@zgriesinger/service-a",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "",
   "author": "",
   "private": true,
@@ -53,7 +53,7 @@
     "eslint-plugin-prettier": "3.4.1",
     "jest": "27.0.6",
     "prettier": "2.5.1",
-    "supertest": "6.1.4",
+    "supertest": "6.2.2",
     "ts-jest": "27.0.7",
     "ts-loader": "9.2.7",
     "ts-node": "10.1.0",
