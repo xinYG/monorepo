@@ -1,6 +1,6 @@
 {
   "name": "monorepo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mono Repo of Next/Nest/React/Shared Packages",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/zgriesinger/monorepo#readme",
   "dependencies": {
-    "ansi-regex": "4.1.0"
+    "ansi-regex": "5.0.1"
   }
 }
