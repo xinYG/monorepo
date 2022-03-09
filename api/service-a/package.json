@@ -1,6 +1,6 @@
 {
   "name": "@zgriesinger/service-a",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "",
   "author": "",
   "private": true,
@@ -35,7 +35,7 @@
     "nanoid": "3.3.1",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
-    "rxjs": "7.5.4",
+    "rxjs": "7.5.5",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
