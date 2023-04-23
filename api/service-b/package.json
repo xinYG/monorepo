@@ -1,6 +1,6 @@
 {
   "name": "@zgriesinger/service-b",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "",
   "author": "",
   "private": true,
@@ -48,7 +48,7 @@
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "3.4.1",
     "jest": "27.0.6",
-    "prettier": "2.5.1",
+    "prettier": "2.8.8",
     "supertest": "6.2.2",
     "ts-jest": "27.0.7",
     "ts-loader": "9.2.8",
